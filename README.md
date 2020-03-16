@@ -1,6 +1,10 @@
-## Your Name
+## David Papamichael
+I am a fresh graduate of the Makers Academy developer bootcamp. I’m looking for a junior developer role which will allow me to consolidate and extend my programming knowledge, and expose me to the working life of a developer team in production. My time at Makers have given me a deep understanding into the fundamentals of software development, great coding principals and practises, all of which I am keen to implement in a professional environment based in the tech scene of London.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I was looking for a new challenge after 7 years working in the medical field, becoming a developer felt like the logical progression for what I wanted out of my career. I have a history of proven problem solving, spending the last 4 years dealing with chronic back pain patients, assessing their spinal medical images (MRI’s, CT’s, EOS) and recommending the appropriate treatment options, ranging from physiotherapy to surgery. 
+
+I soon realised that the fascinating parts of my job revolved around problem solving, and finding out what was wrong with the patient sitting in front of me. I loved my previous role, but was looking for something that involved more of that on the spot problem solving and analytical thinking. 
+
 
 ## Skills
 
