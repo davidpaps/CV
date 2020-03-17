@@ -15,9 +15,9 @@ I was looking for a new challenge after 7 years working in the medical field, be
 
 | Project  | Description | Tech Used |
 |---|---|---|
-| [*Facebook Clone*](https://acebook-u-jakd.herokuapp.com/) | 'Acebook', a 2 week project, a clone of facebook that allows a user to register, log in and create posts, comments and likes on their own/and other users posts. Also has a live chat implementation.| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara   |
+| [*Facebook Clone*](https://acebook-u-jakd.herokuapp.com/) | 'Acebook', a 2 week project, a clone of facebook that allows a user to register, log in and create posts, comments and likes on their own/and other users posts. Also has a live chat implementation that was added with the use of Websockets, a new technology for us.| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara   |
 | [*Air BnB Clone*](https://github.com/shadz22/MakersBnB)  | 'B and Breakfast', a 1 week project, a clone of Air Bnb made into a Single Page JavaScript App. Users can sign up, make a post, browse other listings and communicate through the interface to book. | Javascript, JQuery, HTML, CSS, Sinatra, Ruby, Jasmine, Rspec, Capybara   |
-| [*Pong!*](http://net-positive.herokuapp.com/) | My 2 week final project that involved building a neural network that leaned to play the classic video game pong. A user could then play against this AI, or against another player in the online arcade.| Javascript, JQuery, Python, Django, CSS, HTML, Jasmine, Pytest|
+| [*Pong!*](http://net-positive.herokuapp.com/) | My 2 week final project that involved building a basic neural network that leaned to play the classic video game pong using the pixel data from the canvas. A user could then play against this AI, or against another player in the online arcade.| Javascript, JQuery, Python, Django, CSS, HTML, Jasmine, Pytest|
 
 
 For a complete list, and the source code, see my [*Github*](https://github.com/davidpaps)
@@ -78,11 +78,11 @@ I have always been a committed person, previously dealing with people who are in
 
 
 
-## __Hobbies__
+## __Interests__
 
 - __Rock Climbing__, my other problem solving based passion in life. I believe this hobby/way of life, makes me a better programmer, for rock climbing is the physical equivalent of coding - how to get past an obstacle in the smartest and most efficient way possible.
 
-- __Travelling__,I love to explore the world, discover new cultures and ways of life, it also goes hand in hand perfectly with Rock climbing!
+- __Travelling__, I love to explore the world, discover new cultures and ways of life, it also goes hand in hand perfectly with Rock climbing!
 
 
 ## __Contact__
