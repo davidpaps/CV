@@ -1,18 +1,35 @@
-## __David Papamichael__
+
+<h1 align="center">David Papamichael</h1>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/david-papamichael-b391641a2/">
+<img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+<a href="https://dev.to/davidpaps">
+<img src="./images/84_Dev-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+<a href="https://github.com/davidpaps">
+<img src="./images/GitHub-Mark-120px-plus.png" hspace="50" height="42" width="42"></a></p>
+
+<div align= "center" >
 
 [*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests) | [*Contact*](#contact)
 
-I am a fresh graduate of the [*Makers Academy*](https://makers.tech/) developer bootcamp. I’m looking for a junior developer role which will allow me to consolidate and extend my programming knowledge, and expose me to the working life of a developer team in production. My time at Makers have given me a deep understanding into the fundamentals of software development, great coding principals and practises, all of which I am keen to implement in a professional environment based in the tech scene of London.
+</div>
 
-I have kept a blog about the lifestyle change, and my thoughts and feelings over the last last 20 weeks [*here*](https://dev.to/davidpaps).
+---
+
+I am a fresh graduate of the [*Makers Academy*](https://makers.tech/) developer bootcamp. I’m looking for a junior developer role which will allow me to consolidate and extend my programming knowledge, and expose me to the working life of a developer team in production. My time at Makers have given me a deep understanding into the fundamentals of software development, great coding principals and practises, all of which I am keen to implement in a professional environment based in the tech scene of London.
 
 After completing my Bachelor of Science and spending more than 7 years working in the medical field, I was looking for a new challenge. Becoming a developer felt like the logical progression for what I want out of a career. I realised that the fascinating parts of my job revolved around problem solving, and my ability to interpret complex data and break it down into smaller components would give me a great foundation to build on in the programming world. My time at Makers has built on these skills, and allowed me to become a competent and driven junior developer. 
  
+---
 
-## __Projects__
+## Projects
 
 
-| Project  | Description | Tech Used |
+| __Project__  | __Description__ | __Tech Used__ |
 |---|---|---|
 | [*Facebook Clone*](https://acebook-u-jakd.herokuapp.com/) | 'Acebook', a 2 week project, a clone of facebook that allows a user to register, log in and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in.| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara   |
 | [*Air BnB Clone*](https://github.com/shadz22/MakersBnB)  | 'B and Breakfast', a 1 week project, a clone of Air Bnb made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book. | Javascript, JQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara   |
@@ -21,9 +38,9 @@ After completing my Bachelor of Science and spending more than 7 years working i
 
 For a complete list, and the source codes, see my [*Github*](https://github.com/davidpaps)
 
+---
 
-
-## __Skills__
+## Skills
 I have several essential skills that I believe are of paramount importance for a software developer. These skills I used day to day in my previous roles, and during my time at Makers, I managed to apply these to my development work and hone them further:
 
 
@@ -39,9 +56,9 @@ During my previous roles over the last 7 years, I worked almost daily with patie
 
 In my previous role, I would make it my personal goal to help my patients in any way I could. Dealing with such a sensitive matter as pain, it meant going the extra mile. This involved working out of office hours, hospital visits and calls in my personal time. I believe this in an important skill that is directly shown in this change in career. This was a conscious choice for me, to leave a stable and comfortable life and pursue a career in something I was genuinely fascinated with. It was not a snap decision, it was something that I gave great thought and planning to. I'm thrilled to have completed the course, this required extreme discipline and self belief to keep focused and not get overwhelmed with the fast pace and new topics that I discovered each week. This also showed my ability to pick up new technologies and concept quickly, showing that i am a fast learner with genuine enthusiasm.
 
+---
 
-
-## __Education__
+## Education
 
 #### Makers Academy (December 2019 to March 2020)
 *A 16 week intensive developer bootcamp focusing on the following principals:*
@@ -65,7 +82,9 @@ In my previous role, I would make it my personal goal to help my patients in any
 - Dissertation research published [*here*](https://www.ncbi.nlm.nih.gov/pubmed/22889688)
 - Football captain & Mountaineering club travel secretary  
 
-## __Experience__
+---
+
+## Experience
 
 **The Harley Street Spine Clinic** (July 2014 - August 2019)   
 *Clinical Manager*  
@@ -75,16 +94,17 @@ In my previous role, I would make it my personal goal to help my patients in any
 *Spinal Decompression Technician*  
 - This role exposed me to a variety of people from all walks of life, and equipped me with the skills necessary to converse, strategise and find solutions for their ongoing back pain.
 
+---
 
-
-## __Interests__
+## Interests
 
 - __Rock Climbing__, my other problem solving based passion in life. I believe this hobby/way of life, makes me a better programmer, for rock climbing is the physical equivalent of coding - how to get past an obstacle in the smartest and most efficient way possible.
 
 - __Travelling__, I love to explore the world, discover new cultures and ways of life, it also goes hand in hand perfectly with Rock climbing!
 
+---
 
-## __Contact__
+## Contact
 - __Github__, [*davidpaps*](https://github.com/davidpaps)
 - __LinkedIn__, [*davidpapamichael*](https://www.linkedin.com/in/david-papamichael-b391641a2/)
 - __Facebook__, [*david.papamichael*](https://www.facebook.com/david.papamichael)
