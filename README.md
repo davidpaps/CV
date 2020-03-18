@@ -32,7 +32,7 @@ After completing my Bachelor of Science and spending more than 7 years working i
 | __Project__  | __Description__ | __Tech Used__ |
 |---|---|---|
 | [*Facebook Clone*](https://acebook-u-jakd.herokuapp.com/) | 'Acebook', a 2 week project, a clone of facebook that allows a user to register, log in and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in.| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara   |
-| [*Air BnB Clone*](https://github.com/shadz22/MakersBnB)  | 'B and Breakfast', a 1 week project, a clone of Air Bnb made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book. | Javascript, JQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara   |
+| [*Air BnB Clone*](https://github.com/davidpaps/b_and_breakfast)  | 'B and Breakfast', a 1 week project, a clone of Air Bnb made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book. | Javascript, JQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara   |
 | [*Pong!*](http://net-positive.herokuapp.com/) | 'Net-Positive Pong!', 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong using the pixel data from the canvas. A user could then play against this AI, or against another player in the online arcade built in Javascript.| Javascript, JQuery, Python, Django, CSS, HTML, Jasmine, Pytest|
 
 
