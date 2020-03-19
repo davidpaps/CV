@@ -22,7 +22,7 @@
 
 I am a fresh graduate of the [*Makers Academy*](https://makers.tech/) developer bootcamp. I’m looking for a junior developer role which will allow me to consolidate and extend my programming knowledge, and expose me to the working life of a developer team in production. My time at Makers have given me a deep understanding into the fundamentals of software development, great coding principals and practises, all of which I am keen to implement in a professional environment based in the tech scene of London.
 
-After completing my Bachelor of Science and spending more than 7 years working in the medical field, I was looking for a new challenge. Becoming a developer felt like the logical progression for what I want out of a career. I realised that the fascinating parts of my job revolved around problem solving, and my ability to interpret complex data and break it down into smaller components would give me a great foundation to build on in the programming world. My time at Makers has built on these skills, and allowed me to become a competent and driven junior developer. 
+After completing my Bachelor of Science and spending more than 7 years working in the medical field, I was looking for a new challenge. Becoming a developer felt like the logical progression for what I want out of a career. I realised that the fascinating parts of my job revolved around problem solving, and that my ability to interpret complex data and break it down into smaller components, would give me a great foundation to build on in the programming world. My time at Makers has enhanced these skills, and allowed me to become a competent and driven junior developer. 
  
 ---
 
@@ -31,9 +31,9 @@ After completing my Bachelor of Science and spending more than 7 years working i
 
 | __Project__  | __Description__ | __Tech Used__ |
 |---|---|---|
-| [*Acebook*](https://acebook-u-jakd.herokuapp.com/) [*Github*](https://github.com/davidpaps/acebook) | 'Acebook', a 2 week project, a clone of facebook that allows a user to register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in.| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara   |
-| [*Air BnB Clone*](https://github.com/davidpaps/b_and_breakfast)  | 'B and Breakfast', a 1 week project, a clone of Air Bnb made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book. | Javascript, JQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara   |
-| [*Pong!*](http://net-positive.herokuapp.com/) [*Github*](https://github.com/davidpaps/pong) | 'Net-Positive Pong!', 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong using the pixel data from the canvas. A user could then play against this AI, or against another player in the online arcade built in Javascript.| Javascript, JQuery, Python, Django, CSS, HTML, Jasmine, Pytest|
+| [*Acebook*](https://acebook-u-jakd.herokuapp.com/) [*(Github)*](https://github.com/davidpaps/acebook) | 'Acebook', a 2 week project, a clone of facebook that allows a user to register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in.| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara   |
+| [*B and Breakfast*](https://github.com/davidpaps/b_and_breakfast)  | 'B and Breakfast', a 1 week project, a clone of Air Bnb made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book. | Javascript, JQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara   |
+| [*Pong!*](http://net-positive.herokuapp.com/) [*(Github)*](https://github.com/davidpaps/pong) | 'Pong!', 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong using the pixel data from the canvas. A user could then play against this AI, or against another player in the online arcade built in Javascript.| Javascript, JQuery, Python, Django, CSS, HTML, Jasmine, Pytest|
 
 
 For a complete listof projects, see my [*Github*](https://github.com/davidpaps)
