@@ -1,4 +1,3 @@
-
 <h1 align="center">David Papamichael</h1>
 
 <p align="center">
@@ -14,7 +13,7 @@
 
 <div align= "center" >
 
-[*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests) | [*Contact*](#contact)
+[*Projects*](#projects) | [*Skills*](#skills) | [*Education*](#education) | [*Experience*](#experience) | [*Interests*](#interests)
 
 </div>
 
@@ -22,21 +21,25 @@
 
 I am a fresh graduate of the [*Makers Academy*](https://makers.tech/) developer bootcamp. I’m looking for a junior developer role which will allow me to consolidate and extend my programming knowledge, and expose me to the working life of a developer team in production. My time at Makers have given me a deep understanding into the fundamentals of software development, great coding principals and practises, all of which I am keen to implement in a professional environment based in the tech scene of London.
 
-After completing my Bachelor of Science and spending more than 7 years working in the medical field, I was looking for a new challenge. Becoming a developer felt like the logical progression for what I want out of a career. I realised that the fascinating parts of my job revolved around problem solving, and that my ability to interpret complex data and break it down into smaller components, would give me a great foundation to build on in the programming world. My time at Makers has enhanced these skills, and allowed me to become a competent and driven junior developer. 
- 
+I have a passion for problem solving, and i'm not afraid to step out of my comfort zone to challenge myself.
+
+After completing my Bachelor of Science and spending more than 7 years working in the medical field, I was looking for a new challenge. Becoming a developer felt like the logical progression for what I want out of a career. I realised that the fascinating parts of my job revolved around problem solving, and that my ability to interpret complex data and break it down into smaller components, would give me a great foundation to build on in the programming world. My time at Makers has enhanced these skills, and allowed me to become a competent and driven junior developer.
+
+
+
 ---
 
 ## Projects
 
 
-| __Project__  | __Description__ | __Tech Used__ |
+| __Links__  | __Description__ | __Tech Used__ |
 |---|---|---|
-| [*Acebook*](https://acebook-u-jakd.herokuapp.com/) [*(Github)*](https://github.com/davidpaps/acebook) | 'Acebook', a 2 week project, a clone of facebook that allows a user to register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in.| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara   |
-| [*B and Breakfast*](https://github.com/davidpaps/b_and_breakfast)  | 'B and Breakfast', a 1 week project, a clone of Air Bnb made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book. | Javascript, JQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara   |
-| [*Pong!*](http://net-positive.herokuapp.com/) [*(Github)*](https://github.com/davidpaps/pong) | 'Pong!', 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong using the pixel data from the canvas. A user could then play against this AI, or against another player in the online arcade built in Javascript.| Javascript, JQuery, Python, Django, CSS, HTML, Jasmine, Pytest|
+|<p align="center"> <a href="https://acebook-u-jakd.herokuapp.com/"> <img src="./images/heroku-5-569467.png" hspace="40" height="32" width="32"></a><br><a href="https://github.com/davidpaps/acebook"> <img src="./images/GitHub-Mark-120px-plus.png" hspace="40" height="32" width="32"></a></p> | __'Acebook'__, - A 2 week group project that involved building a clone of facebook. A user can register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in.| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara   |
+| <p align="center"> <a href="https://github.com/davidpaps/b_and_breakfast"> <img src="./images/GitHub-Mark-120px-plus.png" hspace="40" height="32" width="32"></a></p>  | __'B and Breakfast'__, - A 1 week group project that involved building a clone of Air Bnb. This was made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book using the Datepicker API. | Javascript, JQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara   |
+|<p align="center"> <a href="http://net-positive.herokuapp.com/"> <img src="./images/heroku-5-569467.png" hspace="40" height="32" width="32"></a><br><a href="https://github.com/Jakephillips55/Net-Positive-Makers"> <img src="./images/GitHub-Mark-120px-plus.png" hspace="40" height="32" width="32"></a></p> | __'Pong!'__ - My 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong. The neural net used the pixel data from the canvas as data to learn. A user could then play against this AI, or against another player in the online arcade built in Javascript.| Javascript, JQuery, Python, Django, CSS, HTML, Jasmine, Pytest|
 
 
-For a complete listof projects, see my [*Github*](https://github.com/davidpaps)
+For a complete list of projects, see my [*Github*](https://github.com/davidpaps)
 
 ---
 
@@ -98,14 +101,8 @@ In my previous role, I would make it my personal goal to help my patients in any
 
 ## Interests
 
-- __Rock Climbing__, my other problem solving based passion in life. I believe this hobby/way of life, makes me a better programmer, for rock climbing is the physical equivalent of coding - how to get past an obstacle in the smartest and most efficient way possible.
+- __Rock Climbing__ - My other problem solving based passion in life. I believe this hobby/way of life, makes me a better programmer, for rock climbing is the physical equivalent of coding - how to get past an obstacle in the smartest and most efficient way possible.
 
-- __Travelling__, I love to explore the world, discover new cultures and ways of life, it also goes hand in hand perfectly with Rock climbing!
+- __Travelling__ - I love to explore the world, discover new cultures and ways of life, it also goes hand in hand perfectly with Rock climbing!
 
----
-
-## Contact
-- __Github__, [*davidpaps*](https://github.com/davidpaps)
-- __LinkedIn__, [*davidpapamichael*](https://www.linkedin.com/in/david-papamichael-b391641a2/)
-- __Facebook__, [*david.papamichael*](https://www.facebook.com/david.papamichael)
-- __Blog__, [*davidpaps*](https://dev.to/davidpaps)
+- __Cooking__ - I love to eat! And I love to cook, it also complements travelling, discovering new foods and tastes from around the world!
