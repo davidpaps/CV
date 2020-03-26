@@ -3,7 +3,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/david-papamichael-b391641a2/">
-<img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<img src="./images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 <a href="https://dev.to/davidpaps">
 <img src="./images/84_Dev-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
@@ -16,21 +16,19 @@
 
 <div align= "center" >
 
-[![Ruby commits][rubycommits]](https://sourcerer.io/davidpaps)
-[![JavaScript commits][jscommits]](https://sourcerer.io/davidpaps)
-[![Python commits][pythoncommits]](https://sourcerer.io/davidpaps)
-[![HTML commits][htmlcommits]](https://sourcerer.io/davidpaps)
-[![CSS commits][csscommits]](https://sourcerer.io/davidpaps)
-[![SQL commits][sqlcommits]](https://sourcerer.io/davidpaps)
+[![JavaScript Commits][jscommits]](https://sourcerer.io/davidpaps)
+[![Ruby Commits][rubycommits]](https://sourcerer.io/davidpaps)
+[![Python Commits][pythoncommits]](https://sourcerer.io/davidpaps)
+[![HTML Commits][htmlcommits]](https://sourcerer.io/davidpaps)
+[![CSS Commits][csscommits]](https://sourcerer.io/davidpaps)
 
-[rubycommits]: https://img.shields.io/badge/Ruby-339%20commits-red.svg
-[jscommits]: https://img.shields.io/badge/JavaScript-345%20commits-yellow.svg
-[pythoncommits]: https://img.shields.io/badge/Python-113%20commits-green.svg
-[csscommits]: https://img.shields.io/badge/CSS-261%20commits-blue.svg
-[htmlcommits]: https://img.shields.io/badge/HTML-313%20commits-black.svg
-[sqlcommits]: https://img.shields.io/badge/SQL-75%20commits-orange.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-451%20commits-yellow.svg
+[rubycommits]: https://img.shields.io/badge/Ruby-358%20commits-red.svg
+[pythoncommits]: https://img.shields.io/badge/Python-201%20commits-green.svg
+[csscommits]: https://img.shields.io/badge/CSS-328%20commits-blue.svg
+[htmlcommits]: https://img.shields.io/badge/HTML-414%20commits-black.svg
 
-[_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Experience_](#experience) | [_Interests_](#interests)
+[_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Work Experience_](#work-experience) | [_Interests_](#interests)
 
 </div>
 
@@ -46,11 +44,11 @@ After completing my Bachelor of Science and spending more than 7 years working i
 
 ## Projects
 
-|                                                                                                                                           **Links**                                                                                                                                            |                                                                                                                                                         **Description**                                                                                                                                                         |                             **Tech Used**                              |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-|            <p align="center"><a href="https://acebook-u-jakd.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="32" width="32"></a><br><a href="https://github.com/davidpaps/acebook"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p>            |                                          **'Acebook'**, - A 2 week group project that involved building a clone of facebook. A user can register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in.                                           |       Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara       |
-|                                                                    <p align="center"><a href="https://github.com/davidpaps/b_and_breakfast"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p>                                                                    |                          **'B and Breakfast'**, - A 1 week group project that involved building a clone of Air Bnb. This was made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book using the Datepicker API.                           | Javascript, JQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara |
-| <p align="center"><a href="http://net-positive-pong-ai.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="32" width="32"></a><br><a href="https://github.com/Jakephillips55/Net-Positive-Makers"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p> | **'Pong!'** - My 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong. The neural net used the pixel data from the canvas as data to learn. A user could then play against this AI, or against another player in the online arcade built in Javascript. |     Javascript, JQuery, Python, Django, CSS, HTML, Jasmine, Pytest     |
+|                                                                                                                                   **Links**                                                                                                                                   |                                                                                                                                                         **Description**                                                                                                                                                         |                             **Tech Used**                              |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|                                                           <p align="center"><a href="https://github.com/davidpaps/b_and_breakfast"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p>                                                            |                          **'B and Breakfast'**, - A 1 week group project that involved building a clone of Air Bnb. This was made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book using the Datepicker API.                           | JavaScript, jQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara |
+|   <p align="center"><a href="https://github.com/davidpaps/acebook"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://acebook-u-jakd.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>    |                      **'Acebook'**, - A 2 week group project that involved building a clone of facebook. A user can register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in. User can log in via OAUTH Github login.                       |       Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara       |  |
+| <p align="center"><a href="https://github.com/davidpaps/pong_ai"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="http://net-positive-pong-ai.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p> | **'Pong!'** - My 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong. The neural net used the pixel data from the canvas as data to learn. A user could then play against this AI, or against another player in the online arcade built in Javascript. |     JavaScript, jQuery, Python, Django, CSS, HTML, Jasmine, Pytest     |
 
 For a complete list of projects, see my [_Github_](https://github.com/davidpaps)
 
@@ -90,6 +88,7 @@ _A 16 week intensive developer bootcamp focusing on the following principals:_
 _Experience with the following tech:_
 
 - Ruby, JavaScript, Python
+- jQuery, React
 - Ruby on Rails, Django, Sinatra
 - PostgreSQL, SQLite
 - RSpec, Capybara, Jasmine, Pytest
@@ -104,7 +103,7 @@ _Biological Science, Human Biology BSc(Hons)_
 
 ---
 
-## Experience
+## Work Experience
 
 **The Harley Street Spine Clinic** (July 2014 - August 2019)
 _Clinical Manager_
