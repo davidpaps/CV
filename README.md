@@ -22,11 +22,11 @@
 [![HTML Commits][htmlcommits]](https://sourcerer.io/davidpaps)
 [![CSS Commits][csscommits]](https://sourcerer.io/davidpaps)
 
-[jscommits]: https://img.shields.io/badge/JavaScript-451%20commits-yellow.svg
-[rubycommits]: https://img.shields.io/badge/Ruby-358%20commits-red.svg
-[pythoncommits]: https://img.shields.io/badge/Python-201%20commits-green.svg
-[csscommits]: https://img.shields.io/badge/CSS-328%20commits-blue.svg
-[htmlcommits]: https://img.shields.io/badge/HTML-414%20commits-black.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-384%20commits-yellow.svg
+[rubycommits]: https://img.shields.io/badge/Ruby-346%20commits-red.svg
+[pythoncommits]: https://img.shields.io/badge/Python-115%20commits-green.svg
+[csscommits]: https://img.shields.io/badge/CSS-289%20commits-blue.svg
+[htmlcommits]: https://img.shields.io/badge/HTML-350%20commits-black.svg
 
 [_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Work Experience_](#work-experience) | [_Interests_](#interests)
 
@@ -91,6 +91,7 @@ _Experience with the following tech:_
 - jQuery, React
 - Ruby on Rails, Django, Sinatra
 - PostgreSQL, SQLite
+- HTML, CSS, Bootstrap 
 - RSpec, Capybara, Jasmine, Pytest
 
 #### The University of Essex (September 2007 - July 2011)
