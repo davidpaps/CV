@@ -42,13 +42,12 @@ After completing my Bachelor of Science and spending more than 7 years working i
 
 ---
 
-## Projects
-
-|                                                                                                                                   **Links**                                                                                                                                   |                                                                                                                                                         **Description**                                                                                                                                                         |                             **Tech Used**                              |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-|                                                           <p align="center"><a href="https://github.com/davidpaps/b_and_breakfast"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p>                                                            |                          **'B and Breakfast'**, - A 1 week group project that involved building a clone of Air Bnb. This was made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book using the Datepicker API.                           | JavaScript, jQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara |
-|   <p align="center"><a href="https://github.com/davidpaps/acebook"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://acebook-u-jakd.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>    |                      **'Acebook'**, - A 2 week group project that involved building a clone of facebook. A user can register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in. User can log in via OAUTH Github login.                       |       Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara       |  |
-| <p align="center"><a href="https://github.com/davidpaps/pong_ai"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="http://net-positive-pong-ai.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p> | **'Pong!'** - My 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong. The neural net used the pixel data from the canvas as data to learn. A user could then play against this AI, or against another player in the online arcade built in Javascript. |     JavaScript, jQuery, Python, Django, CSS, HTML, Jasmine, Pytest     |
+|                                                                                                                                   **Links**                                                                                                                                    |                                                                                                                                                        **Description**                                                                                                                                                        |                                    **Tech Used**                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+|                                                            <p align="center"><a href="https://github.com/davidpaps/b_and_breakfast"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p>                                                            |                           **B and Breakfast** - A 1 week group project that involved building a clone of Air Bnb. This was made into a Single Page JavaScript App. Users can sign up, make a listing, browse other listings and communicate through the interface to book using the Datepicker API.                           |       JavaScript, jQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara        |
+|    <p align="center"><a href="https://github.com/davidpaps/acebook"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://acebook-u-jakd.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>    |                       **Acebook** - A 2 week group project that involved building a clone of facebook. A user can register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in. User can log in via OAUTH Github login.                       |     Ruby, Ruby on Rails, HTML, CSS, Bootstrap, Heroku, RSpec, Capybara, Travis      |  |
+| <p align="center"><a href="https://github.com/davidpaps/pong_ai"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="http://net-positive-pong-ai.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>  | **Pong!** - My 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong. The neural net used the pixel data from the canvas as data to learn. A user could then play against this AI, or against another player in the online arcade built in Javascript. | JavaScript, jQuery, Python, Django, CSS, HTML, AWS, Heroku, Jasmine, Pytest, Travis |
+| <p align="center"><a href="https://github.com/davidpaps/covid_19_mapper"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://covid-mapper.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p> |                                  **Covid-19 Mapper** - A post Makers project built in React, A visual representation of the current Covid-19 crisis. A Single page React app using API calls to show various statistical data for each country around the world, and each state for the USA.                                  |                React, JavaScript, Bootstrap, CSS, HTML, Heroku, Jest                |
 
 For a complete list of projects, see my [_Github_](https://github.com/davidpaps)
 
@@ -78,7 +77,8 @@ In my previous role, I would make it my personal goal to help my patients in any
 
 _A 16 week intensive developer bootcamp focusing on the following principals:_
 
-- Implement ‘Agile’ methodologies, with special focus to paired programming
+- Agile methodologies
+- XP Principals (with special focus on paired programming)
 - Object Orientated Programming and software design
 - Full Stack Web Development
 - Independent Learning
@@ -88,10 +88,10 @@ _A 16 week intensive developer bootcamp focusing on the following principals:_
 _Experience with the following tech:_
 
 - Ruby, JavaScript, Python
-- jQuery, React
+- React, jQuery, HTML, CSS, Bootstrap
 - Ruby on Rails, Django, Sinatra
 - PostgreSQL, SQLite
-- RSpec, Capybara, Jasmine, Pytest
+- RSpec, Capybara, Jasmine, Jest, Pytest
 
 #### The University of Essex (September 2007 - July 2011)
 
