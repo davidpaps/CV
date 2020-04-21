@@ -22,11 +22,11 @@
 [![HTML Commits][htmlcommits]](https://sourcerer.io/davidpaps)
 [![CSS Commits][csscommits]](https://sourcerer.io/davidpaps)
 
-[jscommits]: https://img.shields.io/badge/JavaScript-424%20commits-yellow.svg
-[rubycommits]: https://img.shields.io/badge/Ruby-383%20commits-red.svg
-[pythoncommits]: https://img.shields.io/badge/Python-116%20commits-green.svg
-[csscommits]: https://img.shields.io/badge/CSS-319%20commits-blue.svg
-[htmlcommits]: https://img.shields.io/badge/HTML-385%20commits-black.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-453%20commits-yellow.svg
+[rubycommits]: https://img.shields.io/badge/Ruby-412%20commits-red.svg
+[pythoncommits]: https://img.shields.io/badge/Python-118%20commits-green.svg
+[csscommits]: https://img.shields.io/badge/CSS-348%20commits-blue.svg
+[htmlcommits]: https://img.shields.io/badge/HTML-412%20commits-black.svg
 
 [_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Work Experience_](#work-experience) | [_Interests_](#interests)
 
@@ -49,7 +49,7 @@ Before starting Makers Academy, I spent 7+ years in the medical field helping pa
 |                                                            <p align="center"><a href="https://github.com/davidpaps/b_and_breakfast"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p>                                                            |                           **B and Breakfast** - A 1 week group project that involved building a clone of Air Bnb. This was made into a single page JavaScript app. Users can sign up, make a listing, browse other listings and communicate through the interface to book using the Datepicker API.                           |         JavaScript, jQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara         |
 |    <p align="center"><a href="https://github.com/davidpaps/acebook"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://acebook-u-jakd.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>    |                       **Acebook** - A 2 week group project that involved building a clone of facebook. A user can register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in. User can log in via OAUTH Github login.                       |     Ruby, Ruby on Rails, HTML, CSS, Bootstrap, Heroku, RSpec, Capybara, Travis CI      |  |
 | <p align="center"><a href="https://github.com/davidpaps/pong_ai"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="http://net-positive-pong-ai.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>  | **Pong!** - My 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong. The neural net used the pixel data from the canvas as data to learn. A user could then play against this AI, or against another player in the online arcade built in Javascript. | JavaScript, jQuery, Python, Django, CSS, HTML, AWS, Heroku, Jasmine, Pytest, Travis CI |
-| <p align="center"><a href="https://github.com/davidpaps/covid_19_mapper"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://covid-mapper.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p> |                             **Covid-19 Mapper** - A post Makers project built in React, A visual representation of the current worldwide Covid-19 crisis. A single page React app using API calls to show various statistical data for each country around the world, and each state for the USA.                             |        React, JavaScript, Bootstrap, CSS, HTML, Heroku, Jest, Enzyme, Travis CI        |
+| <p align="center"><a href="https://github.com/davidpaps/covid_19_mapper"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://covid-mapper.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p> |                             **Covid-19 Mapper** - A post Makers project built in React, A visual representation of the current worldwide Covid-19 crisis. A single page React app using API calls to show various statistical data for each country around the world, and each state for the USA.                             |   React, JavaScript, Bootstrap, CSS, HTML, Graph.js, Heroku, Jest, Enzyme, Travis CI   |
 
 For a complete list of projects, see my [_Github_](https://github.com/davidpaps)
 
@@ -88,7 +88,7 @@ _A 16 week intensive developer bootcamp. This gave me a deep understanding into 
 _Experience with the following tech:_
 
 - Ruby, JavaScript, Python, React
-- jQuery, HTML, CSS, Bootstrap
+- jQuery, HTML, CSS, Bootstrap, Graph.js
 - Ruby on Rails, Django, Sinatra
 - PostgreSQL, SQLite
 - RSpec, Capybara, Jasmine, Jest, Pytest
