@@ -19,14 +19,16 @@
 [![JavaScript Commits][jscommits]](https://sourcerer.io/davidpaps)
 [![Ruby Commits][rubycommits]](https://sourcerer.io/davidpaps)
 [![Python Commits][pythoncommits]](https://sourcerer.io/davidpaps)
+[![SQL Commits][sqlcommits]](https://sourcerer.io/davidpaps)
 [![HTML Commits][htmlcommits]](https://sourcerer.io/davidpaps)
 [![CSS Commits][csscommits]](https://sourcerer.io/davidpaps)
 
-[jscommits]: https://img.shields.io/badge/JavaScript-560%20commits-yellow.svg
-[rubycommits]: https://img.shields.io/badge/Ruby-440%20commits-red.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-639%20commits-yellow.svg
+[rubycommits]: https://img.shields.io/badge/Ruby-496%20commits-red.svg
 [pythoncommits]: https://img.shields.io/badge/Python-118%20commits-green.svg
-[csscommits]: https://img.shields.io/badge/CSS-455%20commits-blue.svg
-[htmlcommits]: https://img.shields.io/badge/HTML-489%20commits-black.svg
+[sqlcommits]: https://img.shields.io/badge/SQL-147%20commits-blue.svg
+[htmlcommits]: https://img.shields.io/badge/HTML-555%20commits-black.svg
+[csscommits]: https://img.shields.io/badge/CSS-562%20commits-lightgrey.svg
 
 [_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Work Experience_](#work-experience) | [_Interests_](#interests)
 
