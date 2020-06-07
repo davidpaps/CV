@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/david-papamichael">
+<a href="https://www.linkedin.com/in/davidpaps">
 <img src="./images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 <a href="https://dev.to/davidpaps">
