@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/david-papamichael-b391641a2/">
+<a href="https://www.linkedin.com/in/david-papamichael">
 <img src="./images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 <a href="https://dev.to/davidpaps">
@@ -23,12 +23,12 @@
 [![HTML Commits][htmlcommits]](https://sourcerer.io/davidpaps)
 [![CSS Commits][csscommits]](https://sourcerer.io/davidpaps)
 
-[jscommits]: https://img.shields.io/badge/JavaScript-639%20commits-yellow.svg
-[rubycommits]: https://img.shields.io/badge/Ruby-496%20commits-red.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-740%20commits-yellow.svg
+[rubycommits]: https://img.shields.io/badge/Ruby-515%20commits-red.svg
 [pythoncommits]: https://img.shields.io/badge/Python-118%20commits-green.svg
-[sqlcommits]: https://img.shields.io/badge/SQL-147%20commits-blue.svg
-[htmlcommits]: https://img.shields.io/badge/HTML-555%20commits-black.svg
-[csscommits]: https://img.shields.io/badge/CSS-562%20commits-lightgrey.svg
+[sqlcommits]: https://img.shields.io/badge/SQL-193%20commits-blue.svg
+[htmlcommits]: https://img.shields.io/badge/HTML-614%20commits-black.svg
+[csscommits]: https://img.shields.io/badge/CSS-614%20commits-lightgrey.svg
 
 [_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Work Experience_](#work-experience) | [_Interests_](#interests)
 
@@ -36,7 +36,7 @@
 
 ---
 
-I’m a junior full-stack developer with a passion for problem solving and an eagerness to continue to learn. I am keen to combine my previous experience with new programming skills to contribute to solving real-world problems, currently I'm working on a [_Covid-19 Mapper_](https://covid-mapper.herokuapp.com/) to provide information on the current pandemic.
+I’m a junior full-stack developer with a passion for problem solving and an eagerness to continue to learn. I am keen to combine my previous experience with new programming skills to contribute to solving real-world problems, currently I'm working on a [_Covid-19 Mapper_](https://covid-mapper.herokuapp.com/) to provide information on the current pandemic. I am also part of the winning team for the June 2020 Hack for Heroes [_Hackathon_](https://github.com/davidpaps/pocket_positivity_hackathon).
 
 ### Background
 
@@ -46,12 +46,13 @@ Before starting Makers Academy, I spent 7+ years in the medical field helping pa
 
 ## Projects
 
-|                                                                                                                                   **Links**                                                                                                                                    |                                                                                                                                                        **Description**                                                                                                                                                        |                                     **Tech Used**                                      |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
-|                                                            <p align="center"><a href="https://github.com/davidpaps/b_and_breakfast"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p>                                                            |                           **B and Breakfast** - A 1 week group project that involved building a clone of Air Bnb. This was made into a single page JavaScript app. Users can sign up, make a listing, browse other listings and communicate through the interface to book using the Datepicker API.                           |         JavaScript, jQuery, HTML, CSS, Sinatra, Ruby, Jasmine, RSpec, Capybara         |
-|    <p align="center"><a href="https://github.com/davidpaps/acebook"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://acebook-u-jakd.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>    |                       **Acebook** - A 2 week group project that involved building a clone of facebook. A user can register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in. User can log in via OAUTH Github login.                       |     Ruby, Ruby on Rails, HTML, CSS, Bootstrap, Heroku, RSpec, Capybara, Travis CI      |  |
-| <p align="center"><a href="https://github.com/davidpaps/pong_ai"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="http://net-positive-pong-ai.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>  | **Pong!** - My 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong. The neural net used the pixel data from the canvas as data to learn. A user could then play against this AI, or against another player in the online arcade built in Javascript. | JavaScript, jQuery, Python, Django, CSS, HTML, AWS, Heroku, Jasmine, Pytest, Travis CI |
-| <p align="center"><a href="https://github.com/davidpaps/covid_19_mapper"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://covid-mapper.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p> |                             **Covid-19 Mapper** - A post Makers project built in React, A visual representation of the current worldwide Covid-19 crisis. A single page React app using API calls to show various statistical data for each country around the world, and each state for the USA.                             |   React, JavaScript, Bootstrap, CSS, HTML, Graph.js, Heroku, Jest, Enzyme, Travis CI   |
+|                                                                                                                                   **Links**                                                                                                                                    |                                                                                                                                                                     **Description**                                                                                                                                                                     |                                               **Tech Used**                                                |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                                                                                                                                |
+|    <p align="center"><a href="https://github.com/davidpaps/acebook"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://acebook-u-jakd.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>    |                                    **Acebook** - A 2 week group project that involved building a clone of facebook. A user can register, log in, and create posts, comments and likes on their own/and other users posts, with a live chat function for all users logged in. User can log in via OAUTH Github login.                                    |         Ruby, Ruby on Rails, PostgreSQL, HTML, CSS, Bootstrap, Heroku, RSpec, Capybara, Travis CI          |
+| <p align="center"><a href="https://github.com/davidpaps/pong_ai"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="http://net-positive-pong-ai.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p>  |              **Pong!** - My 2 week final project that involved building a basic neural network in Python that leaned to play the classic video game pong. The neural net used the pixel data from the canvas as data to learn. A user could then play against this AI, or against another player in the online arcade built in Javascript.              |           JavaScript, jQuery, Python, Django, CSS, HTML, AWS, Heroku, Jasmine, Pytest, Travis CI           |
+| <p align="center"><a href="https://github.com/davidpaps/covid_19_mapper"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://covid-mapper.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p> |     **Covid-19 Mapper** - A post Makers project built in React, A visual representation of the current worldwide Covid-19 crisis. A single page React app using API calls to show various statistical data for each country around the world, and each state for the USA. Dynamically rendered graphs display a data, filtered by different fields.     |             React, JavaScript, Bootstrap, CSS, HTML, Graph.js, Heroku, Jest, Enzyme, Travis CI             |
+|                                                      <p align="center"><a href="https://github.com/davidpaps/pocket_positivity_hackathon"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p>                                                      | **Pocket Positivity** - The winning entry for the June 2020 Hack for Heroes Hackathon. 2.5 days were given to build an app to help the heroes on the front line during the pandemic. A React Native app, allowing mood tracking, positive affirmation messages via push notifications, and a chatbot to offer helpful mental health tips and resources. | React Native, Expo, JavaScript, Node.js, Express.js, Chart.js, PostgreSQL, HTML, CSS, Jest, Enzyme, Heroku |
 
 For a complete list of projects, see my [_Github_](https://github.com/davidpaps)
 
@@ -69,7 +70,7 @@ I believe the foundation to a successful team lies in empathetic communication. 
 
 #### Commitment
 
-When I chose to leave a stable career to move into tech, I made the commitment to learn as much as possible and give it my all. While at Makers, I learnt a variety of practises, methodologies and technologies. Including, a new language, framework, and field (Python, Django, machine learning), in just two weeks during my final project - [_Pong!_](http://net-positive-pong-ai.herokuapp.com/). Since graduating, I have been learning React for a personal project - [_COVID-19 Tracker_](https://covid-mapper.herokuapp.com/). This evidences that I am committed to continued learning, and am comfortable self-learning.
+When I chose to leave a stable career to move into tech, I made the commitment to learn as much as possible and give it my all. While at Makers, I learnt a variety of practises, methodologies and technologies. Including, a new language, framework, and field (Python, Django, machine learning), in just two weeks during my final project - [_Pong!_](http://net-positive-pong-ai.herokuapp.com/). Since graduating, I have been learning React for a personal project - [_COVID-19 Tracker_](https://covid-mapper.herokuapp.com/). This evidences that I am committed to continued learning, and am comfortable self-learning. I also had the honour of being part of the winning team for the June 2020 Hack for Heroes [_Hackathon_](https://github.com/davidpaps/pocket_positivity_hackathon). This was my chance to give back to the community, and to those who are working so hard for us on the frontline.
 
 ---
 
@@ -89,11 +90,12 @@ _A 16 week intensive developer bootcamp. This gave me a deep understanding into 
 
 _Experience with the following tech:_
 
-- Ruby, JavaScript, Python, React
-- jQuery, HTML, CSS, Bootstrap, Graph.js
+- Ruby, JavaScript, Python, React, Node.js
+- jQuery, HTML, CSS, Bootstrap, Graph.js, Express.js
 - Ruby on Rails, Django, Sinatra
 - PostgreSQL, SQLite
-- RSpec, Capybara, Jasmine, Jest, Pytest
+- RSpec, Capybara, Jasmine, Jest, Enzyme, Pytest
+- AWS, GCP, Heroku, Travis CI
 
 #### The University of Essex (September 2007 - July 2011)
 
@@ -121,7 +123,7 @@ _Spinal Decompression Technician_
 
 ## Interests
 
-- **Rock Climbing** - My other problem solving based passion in life. I believe this hobby/way of life, makes me a better programmer, for rock climbing is the physical equivalent of coding - how to get past an obstacle in the smartest and most efficient way possible.
+- **Rock Climbing** - My other problem solving based passion in life. I believe this hobby/way of life, makes me a better programmer as rock climbing is the physical equivalent of coding - how to get past an obstacle in the smartest and most efficient way possible.
 
 - **Travelling** - I love to explore the world, discover new cultures and ways of life, it also goes hand in hand perfectly with Rock climbing.
 
