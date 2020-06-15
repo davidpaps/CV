@@ -23,11 +23,11 @@
 [![HTML Commits][htmlcommits]](https://sourcerer.io/davidpaps)
 [![CSS Commits][csscommits]](https://sourcerer.io/davidpaps)
 
-[jscommits]: https://img.shields.io/badge/JavaScript-740%20commits-yellow.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-795%20commits-yellow.svg
 [rubycommits]: https://img.shields.io/badge/Ruby-515%20commits-red.svg
-[pythoncommits]: https://img.shields.io/badge/Python-118%20commits-green.svg
-[sqlcommits]: https://img.shields.io/badge/SQL-193%20commits-blue.svg
-[htmlcommits]: https://img.shields.io/badge/HTML-614%20commits-black.svg
+[pythoncommits]: https://img.shields.io/badge/Python-149%20commits-green.svg
+[sqlcommits]: https://img.shields.io/badge/SQL-212%20commits-blue.svg
+[htmlcommits]: https://img.shields.io/badge/HTML-631%20commits-black.svg
 [csscommits]: https://img.shields.io/badge/CSS-614%20commits-lightgrey.svg
 
 [_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Work Experience_](#work-experience) | [_Interests_](#interests)
@@ -36,11 +36,11 @@
 
 ---
 
-I’m a junior full-stack developer with a passion for problem solving and an eagerness to continue to learn. I am keen to combine my previous experience with new programming skills to contribute to solving real-world problems, currently I'm working on a [_Covid-19 Mapper_](https://covid-mapper.herokuapp.com/) to provide information on the current pandemic. I am also part of the winning team for the June 2020 Hack for Heroes [_Hackathon_](https://github.com/davidpaps/pocket_positivity_hackathon).
+I’m a junior full-stack developer with a passion for problem solving and an eagerness to continue to learn. I am keen to combine my previous experience with new programming skills to contribute to solving real-world problems. Currently I'm working on a [_Covid-19 Mapper_](https://covid-mapper.herokuapp.com/) to provide information on the current pandemic. I am also part of the winning team for the June 2020 Hack for Heroes [_Hackathon_](https://github.com/davidpaps/pocket_positivity_hackathon).
 
 ### Background
 
-Before starting Makers Academy, I spent 7+ years in the medical field helping patients strategise treatment options for chronic spinal injuries. The role encompassed problem solving, a superb attention to detail, interpreting complex data and breaking it down into smaller components. I have always enjoyed puzzle games in my spare time, and after discovering Codewars I was immediately hooked on cracking these algorithmic riddles. I noticed there were similarities between programming and the aspects of my previous role where I excelled, and knew that this was a career meant for me!
+Before starting Makers Academy, I spent 7+ years in the medical field helping patients strategise treatment options for chronic spinal injuries. The role encompassed problem solving, a superb attention to detail, interpreting complex data and breaking it down into smaller components. I have always enjoyed puzzle games in my spare time, and after discovering Codewars I was immediately hooked on cracking these algorithmic riddles. I noticed there were similarities between programming and the aspects of my previous role where I excelled, and knew that this was a career meant for me! I have a kept a weekly [_Blog_](https://dev.to/davidpaps) documenting this career transition.
 
 ---
 
@@ -54,7 +54,7 @@ Before starting Makers Academy, I spent 7+ years in the medical field helping pa
 | <p align="center"><a href="https://github.com/davidpaps/covid_19_mapper"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a><br><a href="https://covid-mapper.herokuapp.com/"><img src="./images/heroku-5-569467.png"  height="30" width="32"></a></p> |     **Covid-19 Mapper** - A post Makers project built in React, A visual representation of the current worldwide Covid-19 crisis. A single page React app using API calls to show various statistical data for each country around the world, and each state for the USA. Dynamically rendered graphs display a data, filtered by different fields.     |             React, JavaScript, Bootstrap, CSS, HTML, Chart.js, Heroku, Jest, Enzyme, Travis CI             |
 |                                                      <p align="center"><a href="https://github.com/davidpaps/pocket_positivity_hackathon"><img src="./images/GitHub-Mark-120px-plus.png"  height="32" width="32"></a></p>                                                      | **Pocket Positivity** - The winning entry for the June 2020 Hack for Heroes Hackathon. 2.5 days were given to build an app to help the heroes on the front line during the pandemic. A React Native app, allowing mood tracking, positive affirmation messages via push notifications, and a chatbot to offer helpful mental health tips and resources. | React Native, Expo, JavaScript, Node.js, Express.js, Chart.js, PostgreSQL, HTML, CSS, Jest, Enzyme, Heroku |
 
-For a complete list of projects, see my [_Github_](https://github.com/davidpaps)
+For a complete list of projects, including my recent work on [_Algorithmic Complexity_](https://github.com/davidpaps/algorithmic_complexity) and [_Data Structures_](https://github.com/davidpaps/algorithms_and_data_structures), see my [_Github_](https://github.com/davidpaps).
 
 ---
 
@@ -70,7 +70,7 @@ I believe the foundation to a successful team lies in empathetic communication. 
 
 #### Commitment
 
-When I chose to leave a stable career to move into tech, I made the commitment to learn as much as possible and give it my all. While at Makers, I learnt a variety of practises, methodologies and technologies. Including, a new language, framework, and field (Python, Django, machine learning), in just two weeks during my final project - [_Pong!_](http://net-positive-pong-ai.herokuapp.com/). Since graduating, I have been learning React for a personal project - [_COVID-19 Tracker_](https://covid-mapper.herokuapp.com/). This evidences that I am committed to continued learning, and am comfortable self-learning. I also had the honour of being part of the winning team for the June 2020 Hack for Heroes [_Hackathon_](https://github.com/davidpaps/pocket_positivity_hackathon). This was my chance to give back to the community, and to those who are working so hard for us on the frontline.
+When I chose to leave a stable career to move into tech, I made the commitment to learn as much as possible and give it my all. While at Makers, I learnt a variety of practises, methodologies and technologies. Including, a new language, framework, and field (Python, Django, machine learning), in just two weeks during my final project - [_Pong!_](http://net-positive-pong-ai.herokuapp.com/). Since graduating, I have been learning React for a personal project - [_COVID-19 Tracker_](https://covid-mapper.herokuapp.com/). This evidences that I am committed to continued learning, and am comfortable self-learning. This is further showcased in my recent studies into [_Algorithmic Complexity_](https://github.com/davidpaps/algorithmic_complexity) and [_Data Structures_](https://github.com/davidpaps/algorithms_and_data_structures). I also had the honour of being part of the winning team for the June 2020 Hack for Heroes [_Hackathon_](https://github.com/davidpaps/pocket_positivity_hackathon). This was my chance to give back to the community, and to those who are working so hard for us on the frontline.
 
 ---
 
@@ -82,11 +82,12 @@ _A 16 week intensive developer bootcamp. This gave me a deep understanding into 
 
 - Agile methodologies
 - XP Principals (with special focus on paired programming)
-- Object Orientated Programming and software design
+- Object Orientated Programming and Software Design
 - Full Stack Web Development
 - Independent Learning
 - Test Driven/Behaviour Driven Development
-- MVC framework with RESTful API structure
+- MVC Frameworks
+- RESTful API's
 
 _Experience with the following tech:_
 
