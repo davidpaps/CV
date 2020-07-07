@@ -23,12 +23,12 @@
 [![HTML Commits][htmlcommits]](https://sourcerer.io/davidpaps)
 [![CSS Commits][csscommits]](https://sourcerer.io/davidpaps)
 
-[jscommits]: https://img.shields.io/badge/JavaScript-795%20commits-yellow.svg
-[rubycommits]: https://img.shields.io/badge/Ruby-515%20commits-red.svg
-[pythoncommits]: https://img.shields.io/badge/Python-149%20commits-green.svg
-[sqlcommits]: https://img.shields.io/badge/SQL-212%20commits-blue.svg
-[htmlcommits]: https://img.shields.io/badge/HTML-631%20commits-black.svg
-[csscommits]: https://img.shields.io/badge/CSS-614%20commits-lightgrey.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-1000%20commits-yellow.svg
+[rubycommits]: https://img.shields.io/badge/Ruby-516%20commits-red.svg
+[pythoncommits]: https://img.shields.io/badge/Python-239%20commits-green.svg
+[sqlcommits]: https://img.shields.io/badge/SQL-245%20commits-blue.svg
+[htmlcommits]: https://img.shields.io/badge/HTML-729%20commits-black.svg
+[csscommits]: https://img.shields.io/badge/CSS-704%20commits-lightgrey.svg
 
 [_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Work Experience_](#work-experience) | [_Interests_](#interests)
 
@@ -91,8 +91,8 @@ _A 16 week intensive developer bootcamp. This gave me a deep understanding into 
 
 _Experience with the following tech:_
 
-- Ruby, JavaScript, Python, React, Node.js
-- jQuery, HTML, CSS, Bootstrap, Graph.js, Express.js
+- Ruby, JavaScript, Python, React.js, Node.js
+- jQuery, HTML, CSS, Bootstrap, Chart.js, Express.js
 - Ruby on Rails, Django, Sinatra
 - PostgreSQL, SQLite
 - RSpec, Capybara, Jasmine, Jest, Enzyme, Pytest
