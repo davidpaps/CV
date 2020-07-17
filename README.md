@@ -23,12 +23,12 @@
 [![HTML Commits][htmlcommits]](https://sourcerer.io/davidpaps)
 [![CSS Commits][csscommits]](https://sourcerer.io/davidpaps)
 
-[jscommits]: https://img.shields.io/badge/JavaScript-1000%20commits-yellow.svg
-[rubycommits]: https://img.shields.io/badge/Ruby-516%20commits-red.svg
-[pythoncommits]: https://img.shields.io/badge/Python-239%20commits-green.svg
+[jscommits]: https://img.shields.io/badge/JavaScript-1023%20commits-yellow.svg
+[rubycommits]: https://img.shields.io/badge/Ruby-605%20commits-red.svg
+[pythoncommits]: https://img.shields.io/badge/Python-149%20commits-green.svg
 [sqlcommits]: https://img.shields.io/badge/SQL-245%20commits-blue.svg
-[htmlcommits]: https://img.shields.io/badge/HTML-729%20commits-black.svg
-[csscommits]: https://img.shields.io/badge/CSS-704%20commits-lightgrey.svg
+[htmlcommits]: https://img.shields.io/badge/HTML-720%20commits-black.svg
+[csscommits]: https://img.shields.io/badge/CSS-731%20commits-lightgrey.svg
 
 [_Projects_](#projects) | [_Skills_](#skills) | [_Education_](#education) | [_Work Experience_](#work-experience) | [_Interests_](#interests)
 
